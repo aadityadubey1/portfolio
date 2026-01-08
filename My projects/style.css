@@ -1,0 +1,99 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: Arial, sans-serif;
+}
+
+body {
+background-color: #f9f9f9;
+color: #333;
+line-height: 1.6;
+}
+
+header {
+background-color: #4f4f4f;
+color: white;
+text-align: center;
+padding: 50px 20px;
+}
+
+header h1 {
+font-size: 2.2rem;
+}
+
+header p {
+margin-top: 10px;
+}
+
+section {
+max-width: 1000px;
+margin: auto;
+padding: 50px 20px;
+}
+
+h2 {
+text-align: center;
+margin-bottom: 30px;
+color: #780505;
+}
+
+.about p {
+max-width: 700px;
+margin: auto;
+text-align: center;
+}
+
+.skills, .projects {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 20px;
+}
+
+.skill-box, .project-card {
+flex: 1 1 250px;
+max-width: 300px;
+background: white;
+padding: 20px;
+text-align: center;
+border-radius: 6px;
+box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.services ul {
+max-width: 400px;
+margin: auto;
+list-style: none;
+text-align: center;
+}
+
+.services li {
+background: white;
+margin: 10px 0;
+padding: 10px;
+border-radius: 5px;
+}
+
+.price-note {
+text-align: center;
+margin-top: 15px;
+font-style: italic;
+}
+
+.contact {
+text-align: center;
+}
+
+footer {
+background-color: #4f4f4f;
+color: white;
+text-align: center;
+padding: 15px;
+}
+
+@media (max-width: 600px) {
+header h1 {
+font-size: 1.8rem;
+}
+}
