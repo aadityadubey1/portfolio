@@ -1,1 +1,75 @@
-# portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Student Frontend Developer | Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>Affordable Website Developer for Small Business & Students</h1>
+<p>Clean & Responsive Websites | HTML & CSS | Affordable for Small Businesses</p>
+</header>
+
+<section class="about">
+<h2>About Me</h2>
+<p> I build simple and responsive websites using HTML and CSS. I help  Students and small businesses. Create a professional  online presence at an affordable price. My focus is fast deliver,clean design,and website that  work smoothly on all devices.
+</p>
+</section>
+
+<section class="skills-section">
+<h2>What I'm Good At </h2>
+<div class="skills">
+<div class="skill-box">HTML</div>
+<div class="skill-box">CSS</div>
+<div class="skill-box">Responsive Layouts</div>
+<div class="skill-box">Website Structuring</div>
+<div class="skill-box">Quick Project Delivery</div>
+</div>
+</section>
+
+<section class="projects-section">
+<h2>Projects I Can Build</h2>
+<div class="projects">
+<div class="project-card">
+<h3>Personal Portfolio Website</h3>
+<p>Professional student portfolio to showcase your skills, achievements, and contact information.</p>
+</div>
+<div class="project-card">
+<h3>Small Business Website</h3>
+<p>Clean, easy-to-navigate website for shops, startups, or local services with contact info and services listed.</p>
+</div>
+<div class="project-card">
+<h3>Landing Page Design</h3>
+<p>Promote products, services, or events with a simple and attractive landing page that works on all devices.</p>
+</div>
+</div>
+</section>
+
+<section class="services">
+<h2>What I Can Do For You</h2>
+<ul>
+<li>Simple Website (1-3 pages) - ₹1,000 -- +</li>
+<li>Portfolio Website for Students or Professionals</li>
+<li>Small Business Website</li>
+<li>Landing Page for Products or Promotions</li>
+<li>Responsive Design for Mobile & Desktop</li>
+</ul>
+<p class="price-note">Affordable pricing starting from ₹1,000 – ₹3,000 per project. Quick delivery guaranteed.</p>
+</section>
+
+<section class="contact">
+<h2>Contact Me</h2>
+<p>Email: adityadubey5814@gmail.com</p>
+<p>Country: India</p>
+<p>Available for small freelance projects. Let’s discuss your project and get it live fast!</p>
+</section>
+
+<footer>
+<p>© 2026| Student Web Developer - HTML & CSS</p>
+</footer>
+
+</body>
+</html>
